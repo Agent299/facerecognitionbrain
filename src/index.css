@@ -1,12 +1,7 @@
 body {
   margin: 0;
-  font-family: Baskerville, sans-serif;
+  font-family: Baskerville, courier, sans-serif;
   background: linear-gradient(90deg, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
-}
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
 }
 
 button {
